@@ -10,7 +10,7 @@
                                     <img src="<?= BASEURL; ?>/assets_web/img/baz.png" alt="">
                                 </a>
                             </div>
-                            <p class="address_text">Badan Amil Zakat Nurul Hidayah adalah
+                            <p class="address_text">Badan Amil Zakat Al Amin adalah
                             </p>
                             <div class="socail_links">
                                 <ul>
@@ -81,7 +81,7 @@
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
                             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;2020 <a href="http://www.kampus-programmer.com/"><b>Kampus Programmer.</b></a> All rights reserved | Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a>
+  Copyright &copy;2025 <a href=""><b>Arif Febriyanto.</b></a> All rights reserved | Repost by <a href='' title='Al Amin' target='_blank'>Al Amin Surabaya</a>
   <!-- | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a> -->
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                         </p>
